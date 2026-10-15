@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# loja online - campanha de natal
-=======
-# loja online - titulo para a camanha de frete 
->>>>>>> feature/frete
+# loja online - titulo para a camapanha atual
 
 ## contato
 Duvidas: contato@loja.com.br 
